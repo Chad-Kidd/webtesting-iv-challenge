@@ -1,3 +1,4 @@
+
 const db = require('../data/dbConfig');
 const Rockstars = require('../rockstars/rockstarsModel');
 
@@ -27,3 +28,4 @@ describe('rockstars model', () => {
     });
   })
 })
+//tests checked to fail
